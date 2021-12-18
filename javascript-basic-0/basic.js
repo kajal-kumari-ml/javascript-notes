@@ -34,7 +34,8 @@ console.log(shelves);
 
 /*
 ---------------------Rules for naming variable-------------------
-1) does not start with number or any 
+1) does not start with number or any special key except $ and _
+2)
 
 
 */
