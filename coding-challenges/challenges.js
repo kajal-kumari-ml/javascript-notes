@@ -35,3 +35,5 @@ const percentageOfWord1=(population)=>{
 
 const me=percentageOfWord1(1441)
 console.log(me);
+
+
