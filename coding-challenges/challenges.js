@@ -37,3 +37,5 @@ const me=percentageOfWord1(1441)
 console.log(me);
 
 
+
+
