@@ -117,5 +117,5 @@ Hints:
 GOOD LUCK😀 
 
 */
-const bill=275;
+const bill = 40;
 const tip=(bill>=50 || bill<=300)?console.log(`The bill was ${bill} value, the tip g${bill*0.15}, and the final value ${bill+bill*0.15}`):console.log(`The bill was ${bill} value, the tip ${bill*0.2}, and the final value ${bill+bill*0.2}`);
